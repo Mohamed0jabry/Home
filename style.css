@@ -118,7 +118,7 @@ cursor: pointer;
     text-shadow:12px 12px 15px #0000006b;
     position: relative;
     color: #fff;
-    font-size: 50px;
+    font-size: 100px;
     text-align: center;
     font-weight: 800;
     letter-spacing: -3px;
@@ -165,6 +165,9 @@ margin-bottom: 100px;
         width: 100vh;
         height: 150vh;   
   
+    }
+     .section-title{
+        font-size: 50px;
     }
     .work__container{
   
